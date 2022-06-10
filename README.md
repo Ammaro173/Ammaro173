@@ -30,12 +30,6 @@
     <br>
     </p>
 
-<!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
-<p align="center">
-<!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
-<img src="https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake.svg" width="100%">
-<!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
-<p align="center">
+<a href='https://svgshare.com/s/iE2' ><img src='https://svgshare.com/i/iE2.svg' title='gh173 contrib' /></a>
 
 <p align="center"><img width="45%" align="center" sy src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ammaro173&layout=compact&theme=tokyonight&hide_border=true" alt="Ammaro173" /></p>
